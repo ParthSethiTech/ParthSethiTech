@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ParthSethiTech/https://www.linkedin.com/in/parth-sethi-178204191/ParthSethiTech/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ParthSethiTech/https://www.linkedin.com/in/parth-sethi-178204191/ParthSethiTech/master/wave.gif" width="30px"">
 
 I am Parth Sethi, people call me Parth, currently studying in DPS Noida. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
