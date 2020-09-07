@@ -2,8 +2,7 @@
 
 I am Parth Sethi, people call me Parth, currently studying in DPS Noida. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://www.linkedin.com/in/parth-sethi-178204191/)
-[![Instagram Badge](https://www.instagram.com/parth_sethi_pvt/)
+[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/parth_sethi_pvt/)](https://instagram.com/parth_sethi_pvt)
 
 ## ⚡ Technologies
 
