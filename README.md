@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://github.com/ParthSethiTech/ParthSethiTech/blob/master/wave.gif"><iframe src="https://giphy.com/embed/lr2APqgkQKYnCeZFFk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+## Fancy seeing you here! <img src="https://github.com/ParthSethiTech/ParthSethiTech/blob/master/wave.gif"><img src="https://giphy.com/embed/lr2APqgkQKYnCeZFFk">
 
 I am Parth Sethi, people call me Parth, currently studying in DPS Noida. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
