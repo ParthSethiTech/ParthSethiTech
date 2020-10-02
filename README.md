@@ -22,5 +22,3 @@ I am Parth Sethi, people call me Parth, currently studying in DPS Noida. I am a 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ParthSethiTech&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthSethiTech&hide=TeX&layout=compact)
-
-<img src="https://profile.counter.glitch.me/ParthSethiTech/count.svg" />
